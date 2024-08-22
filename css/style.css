@@ -231,7 +231,7 @@ header.init {
 margin-bottom: 0px;
 width: 100%;
 padding: 15px 0;
-background: rgba(0,0,0,0);
+background: rgba(255, 255, 255, 0);
 box-shadow: 0px 10px 60px rgba(0, 0, 0, 0);
 -webkit-transition: all .5s cubic-bezier(.165, .84, .44, 1);
 -moz-transition: all .5s cubic-bezier(.165, .84, .44, 1);
@@ -247,7 +247,7 @@ top: 0px;
 left: 0px;
 padding: 0 0;
 box-shadow: 0px 10px 60px rgba(0, 0, 0, .1);
-background: #313840 !important;
+background: #63bdb5 !important;
 -webkit-transition: all .5s cubic-bezier(.165, .84, .44, 1);
 -moz-transition: all .5s cubic-bezier(.165, .84, .44, 1);
 transition: all .5s cubic-bezier(.165, .84, .44, 1);
@@ -264,7 +264,7 @@ height: auto;
 z-index: 2;
 }
 .logo img{
-max-height: 55px;
+max-height: 100px;
 }
 .logo img.show{
 display: none;
